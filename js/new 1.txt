@@ -1,0 +1,1 @@
+Crea un método que al presionar la tecla del punto, lo añada a la derecha del número actual que se muestra en pantalla. Debes verificar si el punto ya está o no en pantalla para no adicionarlo más de una vez
